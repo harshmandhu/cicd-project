@@ -141,3 +141,26 @@ sudo install minikube-linux-amd64 /usr/local/bin/minikube
 ```bash
  minikube ip
 ```
+
+
+![a](https://github.com/harshmandhu/cicd-project/assets/95110861/ca925ec5-e027-41c7-b716-85f3b15611e1)
+
+
+![b](https://github.com/harshmandhu/cicd-project/assets/95110861/a7c403f5-7a5d-46a1-92bb-2993e465381c)
+
+
+![c](https://github.com/harshmandhu/cicd-project/assets/95110861/90c8055d-55f4-4d7d-b25b-aefa3cf66f65)
+
+
+![d](https://github.com/harshmandhu/cicd-project/assets/95110861/9bbb7247-239a-410e-aa1c-406d5e61e809)
+
+
+![e](https://github.com/harshmandhu/cicd-project/assets/95110861/0372fb04-d609-4d63-ac8f-efdda2e54e4c)
+
+
+![f](https://github.com/harshmandhu/cicd-project/assets/95110861/4ec2a59d-3421-4885-bead-0bd71326a287)
+
+
+![g](https://github.com/harshmandhu/cicd-project/assets/95110861/29277644-1908-4ecf-a84b-c4e6b04465b8)
+
+
